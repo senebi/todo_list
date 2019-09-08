@@ -11,4 +11,4 @@ A NodeJS To-do list project.
 - English
 
 # Live version
-https://senebi.github.io/todo_list
+https://secret-refuge-27869.herokuapp.com/
